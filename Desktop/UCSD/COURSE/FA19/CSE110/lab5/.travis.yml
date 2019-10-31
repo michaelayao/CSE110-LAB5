@@ -1,5 +1,5 @@
 language: java
-jdk: openjdk11
+jdk: openjdk13
 before_install:
 - sudo apt-get install -y ant
 - sudo apt-get install -y ant-optional
